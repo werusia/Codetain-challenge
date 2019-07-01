@@ -11,15 +11,12 @@ $bcg-blue: #0076922e
 @mixin section-shadow
   box-shadow: 0 4px 16px 4px rgba(25,25,25,.07)
 
-// Responsiveness
-
 $tablet: 769px !default
-// 960px container + 40px
+
 $desktop: 1000px !default
-// 1152px container + 40
+
 $widescreen: 1192px !default
-// 960 and 1152 have been chosen because
-// they are divisible by both 12 and 16
+
 
 =from($device)
   @media screen and (min-width: $device)
