@@ -1,6 +1,6 @@
-# starwars-project
+## starwars-project
 
-[See project online](http://wm-codetainchallenge.azurewebsites.net/)
+# [See project online](http://wm-codetainchallenge.azurewebsites.net/)
 
 ## Project setup
 ```
