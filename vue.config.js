@@ -1,3 +1,3 @@
 module.exports = {
-publicPath: '/Codetain-challenge/'
+publicPath: '/Codetain-challenge/dist/'
 }
